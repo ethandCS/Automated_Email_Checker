@@ -24,6 +24,9 @@ automated-email-checker/
 ├── token.json              # OAuth2 token file
 └── __pycache__/            # Compiled Python bytecode files
 
+![image](https://github.com/user-attachments/assets/bc588ff1-eaad-4148-83ec-286756a13533)
+
+
 
 
 
