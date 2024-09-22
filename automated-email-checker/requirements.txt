@@ -1,0 +1,14 @@
+# Required for IMAP (email fetching)
+imaplib2
+
+# Required for Google OAuth authentication and Gmail API
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Web scraping/parsing (if you're using BeautifulSoup, though it's not used in the current implementation)
+beautifulsoup4
+
+# For GPT integration (optional)
+openai
